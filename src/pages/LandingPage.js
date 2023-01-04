@@ -21,7 +21,7 @@ const ContentStyle = styled('div')(({ theme }) => ({
 
 export default function LandingPage() {
   return (
-    <RootStyle title="PDF24 tools | Home" id="move_top">
+    <RootStyle title="PDF24 Tools | Home" id="move_top">
       <LandingTopbar />
       <ContentStyle>
         <LandingCompress />
